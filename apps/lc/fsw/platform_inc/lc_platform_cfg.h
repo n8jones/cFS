@@ -21,6 +21,8 @@
 #ifndef _lc_platform_cfg_
 #define _lc_platform_cfg_
 
+#include "cfe_platform_cfg.h"
+
 /** \lccfg Application Name
 **
 **  \par Description:
