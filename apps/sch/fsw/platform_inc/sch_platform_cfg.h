@@ -20,7 +20,7 @@
 #ifndef _sch_platform_cfg_h_
 #define _sch_platform_cfg_h_
 
-
+#include "cfe_platform_cfg.h"
 
 /*************************************************************************
 ** Macro definitions
