@@ -57,6 +57,8 @@
 #ifndef _hs_platform_cfg_h_
 #define _hs_platform_cfg_h_
 
+#include "cfe_platform_cfg.h"
+
 /** \hscfg Application Name
 **
 **  \par Description:
