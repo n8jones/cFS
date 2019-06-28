@@ -45,3 +45,6 @@
 [submodule "apps/mm"]
 	path = apps/mm
 	url = https://github.com/nasa/mm.git
+[submodule "apps/sc"]
+	path = apps/sc
+	url = https://github.com/nasa/sc.git
